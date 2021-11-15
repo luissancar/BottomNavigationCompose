@@ -1,3 +1,3 @@
 # BottomNavigationCompose
-Ejemplo botoomNavigation con Compose
+Ejemplo bottomNavigation con Compose
 Utilizar las mismas veriones de librerias.
